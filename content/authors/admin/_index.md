@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Assistant Research @
+#role: Graduate Assistant Research @
 
 # Organizations/Affiliations
 organizations:
-- name: CAST Lab
-  url: "https://cast.tamu.edu/"
+#- name: CAST Lab
+#  url: "https://cast.tamu.edu/"
 - name: Computer Engineering and Systems Group
   url: "https://cesg.tamu.edu/"
 - name: Department of Electrical and Computer Engineering
@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student and a Research Assistant at CAST Lab. My research interests include Algorithms, Distributed Computing, Robotics and Graph theory. 
+I am a PhD student and a Research Assistant at [CAST Lab](https://cast.tamu.edu/). I am advised by [Dr. Swaminathan Gopalswamy](https://engineering.tamu.edu/mechanical/profiles/gopalswamy-s.html) and co-advised by [Dr. P. R. Kumar](https://cesg.tamu.edu/faculty/p-r-kumar/students/). My research interests include Algorithms, Distributed Computing, Robotics and Graph theory. 
